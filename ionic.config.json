@@ -1,0 +1,7 @@
+{
+  "name": "ionic-login-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
